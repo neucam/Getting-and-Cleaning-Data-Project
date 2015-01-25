@@ -65,24 +65,43 @@ Execution Logic
 Grabs UCT HAR Data, Processes, and outputs clean dataset of means measures by subject_id, activity
 
 Check for reshape2 package, install if non-existant, load
+
 Load Test Subject
+
 Load Train Subject
+
 Concatenate Test/Train Subject, assign column names
+
 Load Test Activity
+
 Load Train Activity
+
 Concatenate Test/Train Activity, assign column names
+
 Load Activity Label, assign column names
+
 Merge Test/Train Activity/Label
+
 Load Train Feature
+
 Load Train Feature
+
 Concatenate Test/Train Feature
+
 Assign Test/Train Feature column names
+
 Extract Test/Train Feature Subset
+
 Assign Test/Train Feature Subset column names
+
 Column bind subect, activity and test_train feature subset
+
 Calculate mean of Subject_ID, Activity grouping
+
 Assign Column names to Subject_ID, Activity Grouping
+
 Write dataset to disk
+
 
 
 ### CodeBook ###
