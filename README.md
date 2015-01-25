@@ -84,8 +84,6 @@ Merge Test/Train Activity/Label
 
 Load Train Feature
 
-Load Train Feature
-
 Concatenate Test/Train Feature
 
 Assign Test/Train Feature column names

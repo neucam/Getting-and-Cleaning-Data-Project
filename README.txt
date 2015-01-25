@@ -74,7 +74,6 @@ Concatenate Test/Train Activity, assign column names
 Load Activity Label, assign column names
 Merge Test/Train Activity/Label
 Load Train Feature
-Load Train Feature
 Concatenate Test/Train Feature
 Assign Test/Train Feature column names
 Extract Test/Train Feature Subset
